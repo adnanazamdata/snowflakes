@@ -1,0 +1,391 @@
+<dept>
+    <dept_id>1</dept_id>
+    <dept_name>Marketing</dept_name>
+    <employee>
+        <emp_id>1</emp_id>
+        <emp_fname>Chandler</emp_fname>
+        <emp_lname>Bing</emp_lname>
+        <emp_title>Director</emp_title>
+        <emp_ssn>123-45-6789</emp_ssn>
+        <address>
+            <street_1>12345 Central Park Ave.</street_1>
+            <street_2></street_2>
+            <city>Hazel Crest</city>
+            <state>IL</state>
+            <zipcode>60429</zipcode>
+            <start_date>1968-06-01</start_date>
+            <end_date>1976-05-01</end_date>
+        </address>
+        <address>
+            <street_1>1011 Spencer Ave.</street_1>
+            <street_2></street_2>
+            <city>Indianapolis</city>
+            <state>IN</state>
+            <zipcode>46218</zipcode>
+            <start_date>1976-05-02</start_date>
+            <end_date>1980-08-31</end_date>
+        </address>
+        <address>
+            <street_1>4300 36th Street S.</street_1>
+            <street_2></street_2>
+            <city>Arlington</city>
+            <state>VA</state>
+            <zipcode>22206</zipcode>
+            <start_date>1980-09-01</start_date>
+            <end_date></end_date>
+        </address>
+    </employee>
+    <employee>
+        <emp_id>2</emp_id>
+        <emp_fname>Joey</emp_fname>
+        <emp_lname>Tribbiani</emp_lname>
+        <emp_title>Manager</emp_title>
+        <emp_ssn>234-56-7890</emp_ssn>
+        <address>
+            <street_1>2312 28th Rd. S.</street_1>
+            <street_2></street_2>
+            <city>Arlington</city>
+            <state>VA</state>
+            <zipcode>22206</zipcode>
+            <start_date>2000-03-01</start_date>
+            <end_date>2012-12-31</end_date>
+        </address>
+        <address>
+            <street_1>4102 29th Street S.</street_1>
+            <street_2></street_2>
+            <city>Arlington</city>
+            <state>VA</state>
+            <zipcode>22206</zipcode>
+            <start_date>2013-01-01</start_date>
+            <end_date>2017-08-31</end_date>
+        </address>
+        <address>
+            <street_1>1501 5th Avenue</street_1>
+            <street_2>#305</street_2>
+            <city>New York</city>
+            <state>NY</state>
+            <zipcode>10012</zipcode>
+            <start_date>2017-09-01</start_date>
+            <end_date></end_date>
+        </address>
+    </employee>
+    <employee>
+        <emp_id>3</emp_id>
+        <emp_fname>Ross</emp_fname>
+        <emp_lname>Geller</emp_lname>
+        <emp_title>Associate</emp_title>
+        <emp_ssn>345-67-8901</emp_ssn>
+        <address>
+            <street_1>123 Burbank Dr</street_1>
+            <street_2></street_2>
+            <city>Orchard Park</city>
+            <state>NY</state>
+            <zipcode>14127</zipcode>
+            <start_date>2013-05-07</start_date>
+            <end_date>2017-08-31</end_date>
+        </address>
+        <address>
+            <street_1>27 Brantford Place</street_1>
+            <street_2></street_2>
+            <city>Buffalo</city>
+            <state>NY</state>
+            <zipcode>14222</zipcode>
+            <start_date>2017-09-01</start_date>
+            <end_date></end_date>
+        </address>
+    </employee>
+</dept>
+<dept>
+    <dept_id>2</dept_id>
+    <dept_name>Sales</dept_name>
+    <employee>
+        <emp_id>4</emp_id>
+        <emp_fname>Monica</emp_fname>
+        <emp_lname>Geller</emp_lname>
+        <emp_title>Global VP</emp_title>
+        <emp_ssn>456-78-9012</emp_ssn>
+        <address>
+            <street_1>123 Oak St.</street_1>
+            <street_2></street_2>
+            <city>Brooklyn</city>
+            <state>NY</state>
+            <zipcode>11223</zipcode>
+            <start_date>1997-01-01</start_date>
+            <end_date>2011-08-30</end_date>
+        </address>
+        <address>
+            <street_1>54321 Willow Ln.</street_1>
+            <street_2></street_2>
+            <city>Queens</city>
+            <state>NY</state>
+            <zipcode>11265</zipcode>
+            <start_date>2011-09-01</start_date>
+            <end_date>2015-07-18</end_date>
+        </address>
+        <address>
+            <street_1>52 Longmeadow Dr.</street_1>
+            <street_2></street_2>
+            <city>Southampton</city>
+            <state>NY</state>
+            <zipcode>11713</zipcode>
+            <start_date>2015-07-19</start_date>
+            <end_date></end_date>
+        </address>
+    </employee>
+    <employee>
+        <emp_id>5</emp_id>
+        <emp_fname>Phoebe</emp_fname>
+        <emp_lname>Buffay</emp_lname>
+        <emp_title>Manager - US East</emp_title>
+        <emp_ssn>567-89-0123</emp_ssn>
+        <address>
+            <street_1>123 Howard Street</street_1>
+            <street_2>Apt #712</street_2>
+            <city>New York</city>
+            <state>NY</state>
+            <zipcode>10013</zipcode>
+            <start_date>1997-01-01</start_date>
+            <end_date>2011-08-30</end_date>
+        </address>
+        <address>
+            <street_1>30 Rockefeller Plaza</street_1>
+            <street_2>9th Floor</street_2>
+            <city>New York</city>
+            <state>NY</state>
+            <zipcode>10036</zipcode>
+            <start_date>2011-09-01</start_date>
+            <end_date>2015-07-18</end_date>
+        </address>
+        <address>
+            <street_1>1616 Flatbush Ave.</street_1>
+            <street_2></street_2>
+            <city>Queens</city>
+            <state>NY</state>
+            <zipcode>11265</zipcode>
+            <start_date>2015-07-19</start_date>
+            <end_date></end_date>
+        </address>
+    </employee>
+    <employee>
+        <emp_id>6</emp_id>
+        <emp_fname>Rachel</emp_fname>
+        <emp_lname>Green</emp_lname>
+        <emp_title>Sales Director</emp_title>
+        <emp_ssn>678-90-1234</emp_ssn>
+        <address>
+            <street_1>7200 Central Park West</street_1>
+            <street_2></street_2>
+            <city>New York</city>
+            <state>NY</state>
+            <zipcode>10023</zipcode>
+            <start_date>1997-01-01</start_date>
+            <end_date>2011-08-30</end_date>
+        </address>
+        <address>
+            <street_1>450 Concar Ave</street_1>
+            <street_2></street_2>
+            <city>San Mateo</city>
+            <state>CA</state>
+            <zipcode>94402</zipcode>
+            <start_date>2011-09-01</start_date>
+            <end_date>2015-07-18</end_date>
+        </address>
+        <address>
+            <street_1>12345 Meadowbrook Dr.</street_1>
+            <street_2></street_2>
+            <city>Westfield</city>
+            <state>IN</state>
+            <zipcode>46038</zipcode>
+            <start_date>2015-07-19</start_date>
+            <end_date>2019-06-30</end_date>
+        </address>
+        <address>
+            <street_1>15 Campus Dr.</street_1>
+            <street_2>Apt 102</street_2>
+            <city>Bloomington</city>
+            <state>IN</state>
+            <zipcode>44444</zipcode>
+            <start_date>2019-07-01</start_date>
+            <end_date></end_date>
+        </address>
+    </employee>
+</dept>
+<dept>
+    <dept_id>3</dept_id>
+    <dept_name>Engineering</dept_name>
+    <employee>
+        <emp_id>7</emp_id>
+        <emp_fname>Quentin</emp_fname>
+        <emp_lname>Tarantino</emp_lname>
+        <emp_title>Director</emp_title>
+        <emp_ssn>789-10-2345</emp_ssn>
+        <address>
+            <street_1>77 Sunset Strip</street_1>
+            <street_2></street_2>
+            <city>Hollywood</city>
+            <state>CA</state>
+            <zipcode>90038</zipcode>
+            <start_date>1997-01-01</start_date>
+            <end_date>2011-08-30</end_date>
+        </address>
+        <address>
+            <street_1>10202 Washington Blvd</street_1>
+            <street_2></street_2>
+            <city>Culver City</city>
+            <state>CA</state>
+            <zipcode>90232</zipcode>
+            <start_date>2011-09-01</start_date>
+            <end_date>2015-07-18</end_date>
+        </address>
+        <address>
+            <street_1>515 Melrose Avenue</street_1>
+            <street_2></street_2>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zipcode>90038</zipcode>
+            <start_date>2015-07-19</start_date>
+            <end_date></end_date>
+        </address>
+
+    </employee>
+    <employee>
+        <emp_id>8</emp_id>
+        <emp_fname>Bradley</emp_fname>
+        <emp_lname>Pitt</emp_lname>
+        <emp_title>Manager</emp_title>
+        <emp_ssn>890-12-3456</emp_ssn>
+        <address>
+            <street_1>15 Wilshire Blvd</street_1>
+            <street_2></street_2>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zipcode>90038</zipcode>
+            <start_date>1997-01-01</start_date>
+            <end_date>2011-08-30</end_date>
+        </address>
+        <address>
+            <street_1>8591 Mulholland Drive</street_1>
+            <street_2></street_2>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zipcode>90046</zipcode>
+            <start_date>2011-09-01</start_date>
+            <end_date>2015-07-18</end_date>
+        </address>
+        <address>
+            <street_1>2859 Coldwater Canyon</street_1>
+            <street_2></street_2>
+            <city>Beverly Hills</city>
+            <state>CA</state>
+            <zipcode>90210</zipcode>
+            <start_date>2015-07-19</start_date>
+            <end_date></end_date>
+        </address>
+    </employee>
+    <employee>
+        <emp_id>9</emp_id>
+        <emp_fname>Leonardo</emp_fname>
+        <emp_lname>DiCaprio</emp_lname>
+        <emp_title>Engineer</emp_title>
+        <emp_ssn>901-23-4567</emp_ssn>
+        <address>
+            <street_1>9255 Sunset Blvd</street_1>
+            <street_2>Suite 625</street_2>
+            <city>West Hollywood</city>
+            <state>CA</state>
+            <zipcode>90069</zipcode>
+            <start_date>1997-01-01</start_date>
+            <end_date>2011-08-30</end_date>
+        </address>
+        <address>
+            <street_1>1515 La Cienega Blvd</street_1>
+            <street_2>#21</street_2>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zipcode>90038</zipcode>
+            <start_date>2011-09-01</start_date>
+            <end_date>2015-07-18</end_date>
+        </address>
+        <address>
+            <street_1>23800 Malibu Crest Dr.</street_1>
+            <street_2></street_2>
+            <city>Malibu</city>
+            <state>CA</state>
+            <zipcode>90265</zipcode>
+            <start_date>2015-07-19</start_date>
+            <end_date></end_date>
+        </address>
+    </employee>
+</dept>
+<dept>
+    <dept_id>4</dept_id>
+    <dept_name>Human Resources</dept_name>
+    <employee>
+        <emp_id>10</emp_id>
+        <emp_fname>Margot</emp_fname>
+        <emp_lname>Robbie</emp_lname>
+        <emp_title>EVP</emp_title>
+        <emp_ssn>012-34-5678</emp_ssn>
+        <address>
+            <street_1>2000 Main Street</street_1>
+            <street_2></street_2>
+            <city>Napa</city>
+            <state>CA</state>
+            <zipcode>94574</zipcode>
+            <start_date>1997-01-01</start_date>
+            <end_date>2011-08-30</end_date>
+        </address>
+        <address>
+            <street_1>8300 St. Helena Hwy</street_1>
+            <street_2></street_2>
+            <city>Napa</city>
+            <state>CA</state>
+            <zipcode>94573</zipcode>
+            <start_date>2011-09-01</start_date>
+            <end_date>2015-07-18</end_date>
+        </address>
+        <address>
+            <street_1>1429 Tubbs Lane</street_1>
+            <street_2></street_2>
+            <city>Calistoga</city>
+            <state>CA</state>
+            <zipcode>94515</zipcode>
+            <start_date>2015-07-19</start_date>
+            <end_date></end_date>
+        </address>
+    </employee>
+    <employee>
+        <emp_id>11</emp_id>
+        <emp_fname>Robert</emp_fname>
+        <emp_lname>Redford</emp_lname>
+        <emp_title>Recruiting</emp_title>
+        <emp_ssn>987-65-4321</emp_ssn>
+        <address>
+            <street_1>1 E. 161st Street</street_1>
+            <street_2></street_2>
+            <city>The Bronx</city>
+            <state>NY</state>
+            <zipcode>10451</zipcode>
+            <start_date>1997-01-01</start_date>
+            <end_date>2011-08-30</end_date>
+        </address>
+        <address>
+            <street_1>1060 W Addison St</street_1>
+            <street_2></street_2>
+            <city>Chicago</city>
+            <state>IL</state>
+            <zipcode>60613</zipcode>
+            <start_date>2011-09-01</start_date>
+            <end_date>2015-07-18</end_date>
+        </address>
+        <address>
+            <street_1>24 Willie Mays Plaza</street_1>
+            <street_2></street_2>
+            <city>San Francisco</city>
+            <state>CA</state>
+            <zipcode>94107</zipcode>
+            <start_date>2015-07-19</start_date>
+            <end_date></end_date>
+        </address>
+    </employee>
+</dept>
